@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /Users/omer/Documents/VSCode/ReactReposify/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/omer/.gradle/caches/transforms-2/files-2.1/6858112513e2ba02159143dea328d3b0/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/omer/.gradle/caches/transforms-2/files-2.1/80d2276d2ec042469265b100b96eb690/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/omer/.gradle/caches/transforms-2/files-2.1/b33daa5aaaa46170b951c6a88495629d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/f6ba715352c5617c34c62874bebb960f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/ad4d4e497cedeb76ef1ad4849815cc40/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/43f85e23e0a219d10e6127a9a25d1846/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/ab58bfea321363f326529e01befd428b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/c9eec02ccfa28b0ebe78600e0e0a5b9b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/305361946677900752fe8b12284187e7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/2dccf7c4311b3b7e2c6253c0d9ece3f4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/41481d1d810552d633d5708e23257227/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/7cc8fdef06c402aed82691784d94373e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/a941cff28d94c2633a06c2f6fa314a56/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/9ea48166cc65253d3cec3144751c9c7b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/04c0d7c727926877aee52dfbd73ac3fb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/omer/.gradle/caches/transforms-2/files-2.1/b208dd3b0a6d213f78ad3e231f0c881d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/37876f2460eb470949083033ce43b688/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/7398f65e31cdd2767c4d1d1612a46405/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/7dcf8f8a0b03cf32b7ae8e8c90700f7e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/2c3e373b96d916c6e29a0f854d57efea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/1c4ad55ade05b8074da0e5339a81c497/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/bb3c8335c3bd950f559cab40e7bbe813/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/4a9344ce0dbc9b612e9705d9bcf2506b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/c8d6b1acee36b6ca9f499d933731f023/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/omer/.gradle/caches/transforms-2/files-2.1/eb450ef39edee0f3e4b2e6f89b3addbe/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/26d04043a14df0b7026836cf996be86c/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/055e22a2e3b03dc415be03b5bb6ebe44/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/289196d753f8a28441d9eca68229a626/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/8d33518e9335a9d5601caeae4748670e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/22eebd6ee9301c241be4a4c20f673092/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/b0c1412eda2dc4981d70857e17e49b3d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/b57488ae424bc578dbad062967933888/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/42dad51e0f77ac34ef3ee831deda1b04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/d74cc25e78cb774105bc669b805f0eeb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/214c56f59b4b0e465ef94b62d0a75f54/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/1e83e6be07ec2fb533ebeaaa32a0d12d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/4cba615446a2e28277884d4ac14b5b39/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/omer/.gradle/caches/transforms-2/files-2.1/6858112513e2ba02159143dea328d3b0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/omer/.gradle/caches/transforms-2/files-2.1/6858112513e2ba02159143dea328d3b0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/41481d1d810552d633d5708e23257227/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/41481d1d810552d633d5708e23257227/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/omer/.gradle/caches/transforms-2/files-2.1/eb450ef39edee0f3e4b2e6f89b3addbe/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/omer/.gradle/caches/transforms-2/files-2.1/eb450ef39edee0f3e4b2e6f89b3addbe/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/26d04043a14df0b7026836cf996be86c/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/26d04043a14df0b7026836cf996be86c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/omer/.gradle/caches/transforms-2/files-2.1/eb450ef39edee0f3e4b2e6f89b3addbe/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.reactreposify.MainActivity
+ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/omer/Documents/VSCode/ReactReposify/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/omer/Documents/VSCode/ReactReposify/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/omer/.gradle/caches/transforms-2/files-2.1/6858112513e2ba02159143dea328d3b0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/omer/.gradle/caches/transforms-2/files-2.1/6858112513e2ba02159143dea328d3b0/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/omer/.gradle/caches/transforms-2/files-2.1/80d2276d2ec042469265b100b96eb690/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/omer/.gradle/caches/transforms-2/files-2.1/80d2276d2ec042469265b100b96eb690/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/omer/.gradle/caches/transforms-2/files-2.1/b33daa5aaaa46170b951c6a88495629d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/omer/.gradle/caches/transforms-2/files-2.1/b33daa5aaaa46170b951c6a88495629d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/f6ba715352c5617c34c62874bebb960f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/f6ba715352c5617c34c62874bebb960f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/ad4d4e497cedeb76ef1ad4849815cc40/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/ad4d4e497cedeb76ef1ad4849815cc40/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/43f85e23e0a219d10e6127a9a25d1846/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/43f85e23e0a219d10e6127a9a25d1846/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/ab58bfea321363f326529e01befd428b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/ab58bfea321363f326529e01befd428b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/c9eec02ccfa28b0ebe78600e0e0a5b9b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/c9eec02ccfa28b0ebe78600e0e0a5b9b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/305361946677900752fe8b12284187e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/305361946677900752fe8b12284187e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/2dccf7c4311b3b7e2c6253c0d9ece3f4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/2dccf7c4311b3b7e2c6253c0d9ece3f4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/41481d1d810552d633d5708e23257227/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/41481d1d810552d633d5708e23257227/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/7cc8fdef06c402aed82691784d94373e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/7cc8fdef06c402aed82691784d94373e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/a941cff28d94c2633a06c2f6fa314a56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/a941cff28d94c2633a06c2f6fa314a56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/9ea48166cc65253d3cec3144751c9c7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/9ea48166cc65253d3cec3144751c9c7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/04c0d7c727926877aee52dfbd73ac3fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/04c0d7c727926877aee52dfbd73ac3fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/omer/.gradle/caches/transforms-2/files-2.1/b208dd3b0a6d213f78ad3e231f0c881d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/omer/.gradle/caches/transforms-2/files-2.1/b208dd3b0a6d213f78ad3e231f0c881d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/37876f2460eb470949083033ce43b688/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/37876f2460eb470949083033ce43b688/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/7398f65e31cdd2767c4d1d1612a46405/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/7398f65e31cdd2767c4d1d1612a46405/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/7dcf8f8a0b03cf32b7ae8e8c90700f7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/7dcf8f8a0b03cf32b7ae8e8c90700f7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/2c3e373b96d916c6e29a0f854d57efea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/2c3e373b96d916c6e29a0f854d57efea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/1c4ad55ade05b8074da0e5339a81c497/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/1c4ad55ade05b8074da0e5339a81c497/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/bb3c8335c3bd950f559cab40e7bbe813/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/bb3c8335c3bd950f559cab40e7bbe813/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/4a9344ce0dbc9b612e9705d9bcf2506b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/4a9344ce0dbc9b612e9705d9bcf2506b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/c8d6b1acee36b6ca9f499d933731f023/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/c8d6b1acee36b6ca9f499d933731f023/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/omer/.gradle/caches/transforms-2/files-2.1/eb450ef39edee0f3e4b2e6f89b3addbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/omer/.gradle/caches/transforms-2/files-2.1/eb450ef39edee0f3e4b2e6f89b3addbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/26d04043a14df0b7026836cf996be86c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/26d04043a14df0b7026836cf996be86c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/055e22a2e3b03dc415be03b5bb6ebe44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/055e22a2e3b03dc415be03b5bb6ebe44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/289196d753f8a28441d9eca68229a626/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/289196d753f8a28441d9eca68229a626/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/8d33518e9335a9d5601caeae4748670e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/8d33518e9335a9d5601caeae4748670e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/22eebd6ee9301c241be4a4c20f673092/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/22eebd6ee9301c241be4a4c20f673092/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/b0c1412eda2dc4981d70857e17e49b3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/b0c1412eda2dc4981d70857e17e49b3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/b57488ae424bc578dbad062967933888/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/b57488ae424bc578dbad062967933888/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/42dad51e0f77ac34ef3ee831deda1b04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/42dad51e0f77ac34ef3ee831deda1b04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/d74cc25e78cb774105bc669b805f0eeb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/d74cc25e78cb774105bc669b805f0eeb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/214c56f59b4b0e465ef94b62d0a75f54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/214c56f59b4b0e465ef94b62d0a75f54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/1e83e6be07ec2fb533ebeaaa32a0d12d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/1e83e6be07ec2fb533ebeaaa32a0d12d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/4cba615446a2e28277884d4ac14b5b39/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/omer/.gradle/caches/transforms-2/files-2.1/4cba615446a2e28277884d4ac14b5b39/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/omer/Documents/VSCode/ReactReposify/android/app/src/debug/AndroidManifest.xml:5:22-75
